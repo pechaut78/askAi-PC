@@ -42,9 +42,3 @@ coll = COLLECT(
     upx_exclude=[],
     name='askAi',
 )
-app = BUNDLE(
-    coll,
-    name='askAi.app',
-    icon='askAi.ico',
-    bundle_identifier=None,
-)

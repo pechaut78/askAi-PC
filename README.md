@@ -22,3 +22,8 @@ This brings up askAi
 * Click the middle button to copy the answer to the clipboard
 
 * Click close to quit
+
+# PC-Version
+* Copy some text from your favorite app, press a shortcut to launch the app
+
+![askAI Looks like that:](/resources/screen.png)
